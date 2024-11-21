@@ -1,0 +1,12 @@
+[submodule "meal/cango.extend"]
+	path = meal/cango.extend
+	url = https://github.com/TaciturnJian/cango.extend
+[submodule "meal/cango.parallel_group"]
+	path = meal/cango.parallel_group
+	url = https://github.com/TaciturnJian/cango.parallel_group
+[submodule "meal/cango.logging"]
+	path = meal/cango.logging
+	url = https://github.com/TaciturnJian/cango.logging
+[submodule "meal/cango.spdlog"]
+	path = meal/cango.spdlog
+	url = https://github.com/TaciturnJian/cango.spdlog
